@@ -184,6 +184,9 @@ background: #FF0000;
     border-bottom: 1px solid var(--separator-color);
     position: relative;
 }
+.task-container:hover{
+    background: #ebebeb;
+}
 
 .task-checkbox{
     height: 1rem;
